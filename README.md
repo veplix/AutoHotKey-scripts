@@ -11,4 +11,4 @@
 
 
 ⌨ Keybinds ⌨
-- Keybinds [`CLICK`](https://github.com/veplix/Hyprland-dotfiles/wiki/Keybinds)
+- Keybinds [`CLICK`](https://github.com/veplix/AutoHotKey-scripts/wiki/Keybinds)
