@@ -6,7 +6,7 @@
 
 `Binds` for standard - non-admin scripts (like opening some programs Firefox, Telegram etc.)
 
-`Radycal_binds` for starting programs with admin privileges (emulating alt+f4 throught win+w, because some programs which are started with admin rights are not closing wothout that)
+`Radycal_binds` for starting programs with admin privileges (emulating alt+f4 throught win+w, because some programs which are started with admin rights are not closing without that)
 
 
 
