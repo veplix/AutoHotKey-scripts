@@ -26,5 +26,5 @@
   <details><summary>Step 3</summary></details>
   </details>
   
-⌨ Keybinds ⌨
+### ⌨ Keybinds ⌨
 - Keybinds [`CLICK`](https://github.com/veplix/AutoHotKey-scripts/wiki/Keybinds)
