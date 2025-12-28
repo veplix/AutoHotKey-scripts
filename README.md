@@ -14,7 +14,7 @@
 > [!TIP]
 > I suggest to put those scripts in windows `Task scheduler` on startup. Creating custom task
 
-### Task scheduer
+### Task scheduler
   A little guide for creating new task for immediate scripts startup
     
   > [!NOTE]
