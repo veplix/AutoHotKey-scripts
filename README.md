@@ -1,2 +1,2 @@
-# AutoHotKey-scriptst
-AutoHotKey scriptst that emulates hyprland binds for windows
+# AutoHotKey-scripts
+AutoHotKey scripts that emulates hyprland binds for windows
