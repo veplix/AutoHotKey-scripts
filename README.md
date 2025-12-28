@@ -20,9 +20,10 @@
   > [!NOTE]
   > If you using this method, create two separate tasks (one for non-admin (Binds), and second for admin (Radycal_binds)
 
+  <details><summary>Step by step guide (with screenshots for max clear)</summary>
   <details><summary>Step 1</summary></details>
   <details><summary>Step 2</summary></details>
   <details><summary>Step 3</summary></details>
-  
+  </details>
 ⌨ Keybinds ⌨
 - Keybinds [`CLICK`](https://github.com/veplix/AutoHotKey-scripts/wiki/Keybinds)
